@@ -4,7 +4,7 @@
 
 **Studying Integrated Business & Engineering at Purdue | Building from first principles because everything else is just noise**
 
-[![Resume](https://img.shields.io/badge/📄-Resume-blue?style=for-the-badge)](https://jaykatariya.me/resume) [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-purple?style=for-the-badge)](https://jaykatariya.me) [![Memories](https://img.shields.io/badge/📸-Memories-orange?style=for-the-badge)](https://jaykatariya.me/memories)
+[![Portfolio](https://img.shields.io/badge/🌐-Portfolio-purple?style=for-the-badge)](https://jaykatariya.me)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A177FF&center=true&vCenter=true&width=940&lines=Craving+Creation+%7C+Always+Shipping;Full+Stack+Developer+%7C+Founder;Building+the+Future+One+Line+at+a+Time" alt="Typing SVG" />
 </div>
@@ -66,9 +66,8 @@ Whether it's a sleek web app, an AI-powered platform, or a consulting strategy, 
 |---------|---------------------|-------|------|
 | **[Mindcord](https://github.com/jkatariy/mindcord)** | World's first university-focused platform with proprietary AI moderation | ⚛️ React, 🟢 Node.js, 🧠 AI/ML, 🐘 PostgreSQL | Co-Founder & CEO |
 | **[planout.me](https://planout.me)** | Anti-bloat project management. Notion, but actually usable. | ⚛️ React, 📘 TypeScript, 🎨 Tailwind, ▲ Vercel | Solo Developer |
-| **[CareHub Strategy](https://carehub.com)** | $500K consulting project: short/mid/long term strategic planning | 💼 Strategy, 📊 Business Planning, 🎯 Consulting | Project Manager |
+| **[CareHub Strategy]** | $500K consulting project: short/mid/long term strategic planning | 💼 Strategy, 📊 Business Planning, 🎯 Consulting | Project Manager |
 | **[infinitysols.com](https://infinitysols.com)** | Freelance portfolio site built for Infinity Automated Solutions | 🌐 Web Development, 💻 Client Work | Freelance Developer |
-| **[Infinity](https://github.com/jkatariy/infinity)** | TypeScript project exploring modern dev patterns & scalability | 📘 TypeScript, 🏗️ Clean Architecture, 🚀 Performance | Solo Developer |
 | **[typeshitt.vercel.app](https://typeshitt.vercel.app)** | Rich text editor & word counter (because wordcounter.net sucks) | 📝 JavaScript, 🎨 HTML/CSS, ✍️ Rich Text | Solo Developer |
 | **Figur8** *(WIP)* | AI consulting engine - MBB-quality insights in hours | 🧠 AI/ML, 💼 Consulting, ⚡ Strategy | Founder |
 
